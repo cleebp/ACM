@@ -4,7 +4,7 @@ If there are any activities you think would be worth doing at an ACM meeting, ad
 
 ## Weekly Update
 
-We should devote <= 5 minutes at the beginning of class to talk about interesting stuff we saw the previous week related to CS or programming.
+We should devote <= 5 minutes at the beginning of each meeting to talk about interesting stuff we saw the previous week related to CS or programming.
 
 ## [Project Euler](https://projecteuler.net)
 
