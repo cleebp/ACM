@@ -9,3 +9,7 @@ If there are any topics you would be willing to talk about, add your name and ta
 - Cloud PaaS stuff
 - Git/GitHub
 - Basics of Vim
+
+## Gabriel Triggs
+- Haskell
+- The Lambda Calculus
