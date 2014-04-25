@@ -13,3 +13,6 @@ If there are any topics you would be willing to talk about, add your name and ta
 ## Gabriel Triggs
 - Haskell
 - The Lambda Calculus
+
+## Alek Ratzloff
+- C++ (specifically metaprogramming with templates)
