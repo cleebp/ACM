@@ -8,3 +8,4 @@ Edit me to add ideas for improving ACM.
 - Decide what will happen with current/future officers.
 - Discuss details of a mentorship program.
 - Talk to Dr Coffey about working with the Hardin Park Elementary [CS Club](http://craig-marze-d.wataugasd.hpes.schoolfusion.us/modules/groups/integrated_home.phtml?gid=4376789).
+- Establish an IRC channel (possibly asuacm) for members of ACM.
