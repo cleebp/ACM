@@ -9,6 +9,7 @@ If there are any topics you would be willing to talk about, add your name and ta
 - Cloud PaaS stuff
 - Git/GitHub
 - Basics of Vim
+- Licensing Issues
 
 ## Gabriel Triggs
 - Haskell (and FP in general - functions as first-class citizens, referential transparency, higher-order functions, etc.)
