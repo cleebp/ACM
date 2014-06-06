@@ -4,10 +4,12 @@ I know the concept of doing social things in the context of ACM may seem strange
 
 If there are any activities you'd be interested in, add them to this list.
 
+Also, not sure how feasible (if at all) it would be for ACM to subsidize cost of these activities for members, but that may be something worth discussing.
+
 - Movie nights at Greer
 - LAN parties (or whatever the hell the modern equivalent is - maybe a tournament?)
 - Late-night programming hangouts held at rotating locations (members' apartments, local restaurants, library, etc.)
 - Bowling? Do people bowl?
 - Bo's in Lenoir (I think it's like a 40-minute drive) has group discount rates
 - A 21-and-over night at AMB
-- A brewery tour at AMB - it's $10/person - maybe ACM could subsidize this for members
+- Brewery tour at AMB
