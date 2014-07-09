@@ -14,6 +14,7 @@ If there are any topics you would be willing to talk about, add your name and ta
 ## Gabriel Triggs
 - Haskell (and FP in general - functions as first-class citizens, referential transparency, higher-order functions, etc.)
 - The Lambda Calculus
+- I'd like to give the above two at an AppHack, back-to-back, doing probably half an hour about the lamda calculus and then maybe a whole hour about FP (using Haskell as my example language.)
 - NP-Completeness (Halting Problem, Acceptance Problem, possibly others)
 - Combinatoric play (Is the set of Rick-and-Morty-themed puns finite or countably or uncountably infinite?)
 
