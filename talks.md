@@ -7,8 +7,10 @@ If there are any topics you would be willing to talk about, add your name and ta
 - My experience at IBM
 - Node
 - Cloud PaaS stuff
+- Developer tools (CI, collaboration, etc.)
 - Git/GitHub
 - Basics of Vim
+- Not-so-basics of Vim
 - Licensing Issues
 
 ## Gabriel Triggs
