@@ -28,8 +28,6 @@ If there are any topics you would be willing to talk about, add your name and ta
 - Clint Guin / Tim Jassmann - DIP and machine learning
 - Clint Guin - the game dev process
 - David Kale - graphics
-- Patricia Johann - functional programming, type (and category) theory
-- Shay Cichocki - web development, life after undergrad CS
 
 ## Campus organizations that might be worth hearing from
 - AITP - maybe let them send an officer to talk to us about why we might want to join
