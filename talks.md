@@ -12,6 +12,7 @@ If there are any topics you would be willing to talk about, add your name and ta
 - Basics of Vim
 - Not-so-basics of Vim
 - Licensing Issues
+- Basics of Web Development: Verbs, REST APIs, Websockets, Oh My!
 
 ## Gabriel Triggs
 - Haskell (and FP in general - functions as first-class citizens, referential transparency, higher-order functions, etc.)
