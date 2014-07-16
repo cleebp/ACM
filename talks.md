@@ -26,6 +26,8 @@ If there are any topics you would be willing to talk about, add your name and ta
 
 ## Alek Ratzloff
 - C++ (specifically metaprogramming with templates)
+- Using the bash shell effectively 
+- Git
 
 ## People to ask to speak
 - Clint Guin / Tim Jassmann - DIP and machine learning
