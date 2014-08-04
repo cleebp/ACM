@@ -13,3 +13,5 @@ Also, not sure how feasible (if at all) it would be for ACM to subsidize cost of
 - Bo's in Lenoir (I think it's like a 40-minute drive) has group discount rates
 - A 21-and-over night at AMB
 - Brewery tour at AMB
+- Soccer (possibly moving over time to intramural, if there's sufficient interest)
+- Working Out
